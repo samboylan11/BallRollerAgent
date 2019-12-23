@@ -4,5 +4,6 @@ Ball that learns to go to a box and is rewarded +1 each time it does so and is p
 
 Built with C# and Python(MLAgents).
 
+![](RollerBallAgent.gif)
 
 Made By: Samuel Boylan-Sajous
