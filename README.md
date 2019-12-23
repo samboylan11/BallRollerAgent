@@ -6,4 +6,4 @@ Built with C# and Python(MLAgents).
 
 ![](RollerBallAgent.gif)
 
-Made By: Samuel Boylan-Sajous
+Made By: Samuel Boylan-Sajous (Learned this from MLAgents docs)
